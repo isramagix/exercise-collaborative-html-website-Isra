@@ -1,0 +1,13 @@
+
+#information{
+    font-size: 17px;
+}
+
+ul{
+    font-size: 13px;
+}
+
+li:hover{
+    background-color: lightgrey;
+    border-radius: 10px;
+}
